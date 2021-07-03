@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include <freetype/fttypes.h>
 #include "ft2build.h"
 #include FREETYPE_H
 
